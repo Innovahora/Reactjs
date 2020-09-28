@@ -1,0 +1,25 @@
+.ant-layout-sider-children .logo {
+    height: 32px;
+    background: rgba(255, 255, 255, 0.2);
+    margin: 16px;
+}
+
+.ant-layout .ant-layout-sider {
+	flex: initial !important;
+    max-width: initial !important;
+    width: auto !important;
+}
+
+.menu-logo {
+	padding: 0 !important;
+    text-align: center;
+    height: auto !important;
+}
+
+.ant-layout-sider-children .logo {
+	background: url('../../images/logo_directores.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 32px;
+}

@@ -1,0 +1,46 @@
+.ant-layout-header {
+    padding: 0 50px 0 20px;
+}
+
+.ant-layout-header {
+    background: #ffffff;
+}
+
+.ant-menu-item, .ant-menu-submenu-title {
+    padding: 0 10px;
+}
+
+.buttonMenuToggle, .buttonMenuToggle:hover, .buttonMenuToggle:focus {
+	background-color: transparent;
+	color: #000;
+	border: 0;
+	box-shadow: initial;
+}
+
+.buttonMenuToggle .anticon {
+	vertical-align: text-bottom;
+}
+
+.ant-menu-notification {
+	height: auto !important;
+	padding: 0 !important;
+	margin: 0 !important;
+}
+
+.ant-menu-notification .ant-card-body {
+    padding: 16px 12px !important;
+}
+
+.ant-menu-notification .ant-card {
+	border-bottom: 0 !important;
+}
+
+.ant-menu-notification .ant-card .ant-card-meta-title {
+    font-weight: 400 !important;
+    margin-bottom: 3px !important;
+    font-size: 14px;
+}
+
+.ant-menu-notification .ant-card .ant-card-meta-description {
+    font-size: 12px;
+}
